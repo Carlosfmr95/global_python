@@ -36,16 +36,16 @@ A continuación, les dejamos algunos resultados a esperar con el uso correcto de
 
 Para el ejemplo usaremos la matriz sin mutaciones compartida anteriormente.
     
-![Inicio](\Capturas\1.png)
+![Inicio](https://github.com/Carlosfmr95/global_python/blob/main/Capturas/1.png)
 
 La función 'Detectar Mutaciones', muestra lo siguiente al finalizar :
     
-![Detectar Mutaciones](\Capturas\2.png)
+![Detectar Mutaciones](https://github.com/Carlosfmr95/global_python/blob/main/Capturas/2.png)
 
 La función 'Mutar', muestra lo siguiente al aplicar una mutación de Virus en la diagonal principal:
     
-![Mutar ADN](\Capturas\3.png)
+![Mutar ADN](https://github.com/Carlosfmr95/global_python/blob/main/Capturas/3.png)
 
 La función 'Sanar ADN', muestra lo siguiente al finalizar:
     
-![Sanar ADN](\Capturas\4.png)
+![Sanar ADN](https://github.com/Carlosfmr95/global_python/blob/main/Capturas/4.png)
